@@ -2,12 +2,10 @@
 
 ![](https://nextra-bible.vercel.app/bible.png)
 
-**Nextra** is a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com) powered, no-code site generator.
-
----
-
-Put together by [@samullman](https://github.com/samullman)
+Powered by **Nextra** (a [Next.js](https://nextjs.org) and [MDX](https://mdxjs.com), no-code site generator)
 
 ---
 
 [samullman.com](samullman.com)
+
+
